@@ -19,4 +19,5 @@
     <string name="back"><![CDATA[<<]]></string>
     <string name="equals">=</string>
     <string name="negative">+/-</string>
+    <string name="_00">0</string>
 </resources>
